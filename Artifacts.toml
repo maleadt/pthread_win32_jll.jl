@@ -1,0 +1,16 @@
+[[pthread_win32]]
+arch = "i686"
+git-tree-sha1 = "e42955168a33df37e7af893fcb8a4c4c304a9176"
+os = "windows"
+
+    [[pthread_win32.download]]
+    sha256 = "7902228b949bbad3c49f93bf2db97c7603fe44346d82232540f30051830116ad"
+    url = "https://github.com/maleadt/pthread_win32_jll.jl/releases/download/pthread_win32-v3.0.3+0/pthread_win32.v3.0.3.i686-w64-mingw32.tar.gz"
+[[pthread_win32]]
+arch = "x86_64"
+git-tree-sha1 = "fde11be7bf99cdd46f8626af119a8c0156c94723"
+os = "windows"
+
+    [[pthread_win32.download]]
+    sha256 = "3f18e8b11faf8e6f89070349587364d5265448eb1b3a6ba3d1c1f9927d5c3705"
+    url = "https://github.com/maleadt/pthread_win32_jll.jl/releases/download/pthread_win32-v3.0.3+0/pthread_win32.v3.0.3.x86_64-w64-mingw32.tar.gz"
